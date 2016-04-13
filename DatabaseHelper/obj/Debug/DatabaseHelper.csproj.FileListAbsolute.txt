@@ -1,0 +1,7 @@
+C:\Users\mshirk011938\documents\visual studio 2015\Projects\EmployerApplication\DatabaseHelper\bin\Debug\DatabaseHelper.dll
+C:\Users\mshirk011938\documents\visual studio 2015\Projects\EmployerApplication\DatabaseHelper\bin\Debug\DatabaseHelper.pdb
+C:\Users\mshirk011938\documents\visual studio 2015\Projects\EmployerApplication\DatabaseHelper\bin\Debug\ConfigurationHelper.dll
+C:\Users\mshirk011938\documents\visual studio 2015\Projects\EmployerApplication\DatabaseHelper\bin\Debug\ConfigurationHelper.pdb
+C:\Users\mshirk011938\documents\visual studio 2015\Projects\EmployerApplication\DatabaseHelper\obj\Debug\DatabaseHelper.csprojResolveAssemblyReference.cache
+C:\Users\mshirk011938\documents\visual studio 2015\Projects\EmployerApplication\DatabaseHelper\obj\Debug\DatabaseHelper.dll
+C:\Users\mshirk011938\documents\visual studio 2015\Projects\EmployerApplication\DatabaseHelper\obj\Debug\DatabaseHelper.pdb
